@@ -1,0 +1,32 @@
+# project reducer: to learn  2 reducers
+/reducer
+$ npx create-react-app front
+/reducer
+$ cd front
+/reducer/front
+npm start
+# open another new terminal. Set up git on folder reducer
+/reducer
+# cd front
+$ rm -f .git
+$ cd ..
+/reducer
+$ mv front/.gitignore .gitignore
+# initialize github and push to github
+# create file /src/data.js
+# copy jpg files to public/images/ folder
+/reducer/front
+$ npm install react-router-dom
+$ npm install axios
+/reducer
+$ mrdir backend
+$ cd backend
+npm init
+# edit file backend/package.json
+npm install express
+npm install nodemon --save-dev
+# create file front/src/screens/HomeScreen.js
+# create file front/src/screens/ProductScreen.
+# create file front/src/components/Product.js
+# edit file App.js
+# edit file index.css
